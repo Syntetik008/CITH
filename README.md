@@ -1,8 +1,8 @@
 # CITH
-Close (Miner) If Too Hot
+Close (App) If Too Hot
 
 ## Info
-Made it to close my miner if my gpu gets to hot
+Made it to close selected app if my gpu gets to hot
 
 ## //TODO
 Being able to check cpu temp
